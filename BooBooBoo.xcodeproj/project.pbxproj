@@ -15,6 +15,7 @@
 		B4F60C9B2539DDB00034EF49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4F60C992539DDB00034EF49 /* LaunchScreen.storyboard */; };
 		B4F60CA62539DDB10034EF49 /* BooBooBooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F60CA52539DDB10034EF49 /* BooBooBooTests.swift */; };
 		B4F60CB12539DDB10034EF49 /* BooBooBooUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F60CB02539DDB10034EF49 /* BooBooBooUITests.swift */; };
+		B4F60CC72539E3AC0034EF49 /* Airhorn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4F60CC62539E3AC0034EF49 /* Airhorn.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B4F60CAC2539DDB10034EF49 /* BooBooBooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BooBooBooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F60CB02539DDB10034EF49 /* BooBooBooUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooBooBooUITests.swift; sourceTree = "<group>"; };
 		B4F60CB22539DDB10034EF49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4F60CC62539E3AC0034EF49 /* Airhorn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Airhorn.mp3; path = ../../../Desktop/Airhorn.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				B4F60C942539DDB00034EF49 /* Main.storyboard */,
 				B4F60C972539DDB00034EF49 /* Assets.xcassets */,
 				B4F60C992539DDB00034EF49 /* LaunchScreen.storyboard */,
+				B4F60CC62539E3AC0034EF49 /* Airhorn.mp3 */,
 				B4F60C9C2539DDB00034EF49 /* Info.plist */,
 			);
 			path = BooBooBoo;
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4F60CC72539E3AC0034EF49 /* Airhorn.mp3 in Resources */,
 				B4F60C9B2539DDB00034EF49 /* LaunchScreen.storyboard in Resources */,
 				B4F60C982539DDB00034EF49 /* Assets.xcassets in Resources */,
 				B4F60C962539DDB00034EF49 /* Main.storyboard in Resources */,
